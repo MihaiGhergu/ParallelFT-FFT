@@ -1,2 +1,2 @@
 # ParallelFT-FFT
-C program for parallel Fourier and Fast Fourier Transform.
+C program for parallel Fourier Transform and parallel Fast Fourier Transform
